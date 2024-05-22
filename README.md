@@ -16,6 +16,7 @@ Original dataset was downloaded from [https://www.robots.ox.ac.uk/~vgg/data/pets
 6: Model Training <br />
 7: Model Evaluation <br />
 8: Finetune Model <br />
+9: Run Model on new data
 
 ## Model
 - [[ResNet50V2](https://keras.io/api/applications/resnet/)]
