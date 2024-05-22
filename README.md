@@ -8,14 +8,14 @@ The Oxford-IIIT Pet Dataset is a 37 category pet dataset with roughly 200 images
 Original dataset was downloaded from [https://www.robots.ox.ac.uk/~vgg/data/pets/](https://www.robots.ox.ac.uk/~vgg/data/pets/).
 
 ## Project Structure
-1: Import Libraries and Initial Setup
-2: Import Data
-3: Understanding the dataset
-4: Data Preparation: Image Resizing, Label One-hot Encoding, Image (Data) Augmentation, Batching and Prefetching
-5: Model Setup
-6: Model Training
-7: Model Evaluation
-8: Finetune Model
+1: Import Libraries and Initial Setup <br />
+2: Import Data <br />
+3: Understanding the dataset <br />
+4: Data Preparation: Image Resizing, Label One-hot Encoding, Image (Data) Augmentation, Batching and Prefetching <br />
+5: Model Setup <br />
+6: Model Training <br />
+7: Model Evaluation <br />
+8: Finetune Model <br />
 
 ## Model
 - [[ResNet50V2](https://keras.io/api/applications/resnet/)]
