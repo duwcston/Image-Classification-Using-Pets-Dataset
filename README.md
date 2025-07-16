@@ -25,4 +25,4 @@ Original dataset was downloaded from [https://www.robots.ox.ac.uk/~vgg/data/pets
 
 ## User Interface
 
-The Application of these model can be found in this repo: [[Pet Image Classification Web App](https://github.com/Ho-Gia-Khang/Dog-and-Cats-Breeds-Detection.git)]
+The Application of these models can be found in this repo: [[Pet Image Classification Web App](https://github.com/Ho-Gia-Khang/Dog-and-Cats-Breeds-Detection.git)]
